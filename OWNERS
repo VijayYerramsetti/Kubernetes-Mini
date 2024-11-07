@@ -1,0 +1,22 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - medyagh
+  - prezha
+  - spowelljr
+  - comradeprogrammer
+approvers:
+  - medyagh
+  - spowelljr
+  - prezha
+emeritus_approvers:
+  - dlorenc
+  - luxas
+  - jimmidyson
+  - r2d4
+  - aaron-prindle
+  - priyawadhwa
+  - josedonizetti
+  - tstromberg
+  - sharifelgamal
+  - afbjorklund
